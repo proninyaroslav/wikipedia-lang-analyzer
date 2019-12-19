@@ -1,0 +1,2471 @@
+[
+  [
+    "C",
+    {
+      "count": 38,
+      "langs": [
+        "AWK",
+        "Alef",
+        "C++",
+        "C--",
+        "Chapel",
+        "Cilk",
+        "Claire",
+        "Crystal",
+        "Cyclone",
+        "D",
+        "Draco",
+        "ECMAScript",
+        "EC",
+        "Go",
+        "JavaScript",
+        "Julia",
+        "LPC",
+        "Limbo",
+        "MOO",
+        "NWScript",
+        "NewLISP",
+        "Nickle",
+        "Objective-C",
+        "PHP",
+        "Perl",
+        "Pike",
+        "QuakeC",
+        "RAPID",
+        "Ratfor",
+        "SISAL",
+        "Seed7",
+        "Swift",
+        "Vala",
+        "Verilog",
+        "Whiley",
+        "Wolfram Language",
+        "Yoix",
+        "ZPL"
+      ]
+    }
+  ],
+  [
+    "Java",
+    {
+      "count": 36,
+      "langs": [
+        "Apache Groovy",
+        "Ballerina",
+        "BeanShell",
+        "C Sharp",
+        "Ceylon",
+        "Chapel",
+        "Clojure",
+        "Cool",
+        "D",
+        "ECMAScript",
+        "E",
+        "Fantom",
+        "Gosu",
+        "Hack",
+        "Haxe",
+        "J Sharp",
+        "JavaScript",
+        "Join Java",
+        "Kotlin",
+        "Mirah",
+        "NWScript",
+        "NetRexx",
+        "Nickle",
+        "OptimJ",
+        "PHP",
+        "Pizza",
+        "Scala",
+        "Seed7",
+        "SystemVerilog",
+        "Tea",
+        "Umple",
+        "Vala",
+        "Whiley",
+        "X10",
+        "Xtend",
+        "Yoix"
+      ]
+    }
+  ],
+  [
+    "Lisp",
+    {
+      "count": 31,
+      "langs": [
+        "AutoLISP",
+        "CLU",
+        "COWSEL",
+        "Ceylon",
+        "Claire",
+        "Common Lisp",
+        "Curl",
+        "Erlang",
+        "Factor",
+        "Forth",
+        "Franz Lisp",
+        "Game Oriented Assembly Lisp",
+        "Haskell",
+        "Io",
+        "Julia",
+        "LPC",
+        "Little b",
+        "MDL",
+        "Nemerle",
+        "Nickle",
+        "Nim",
+        "Oz",
+        "Perl",
+        "PostScript",
+        "Pure",
+        "RPL",
+        "Scheme",
+        "Smalltalk",
+        "Squeak",
+        "Tcl",
+        "Wolfram Language"
+      ]
+    }
+  ],
+  [
+    "Smalltalk",
+    {
+      "count": 29,
+      "langs": [
+        "Apache Groovy",
+        "COBOL",
+        "Ceylon",
+        "Citrine",
+        "Claire",
+        "Dart",
+        "Emerald",
+        "Erlang",
+        "Etoys",
+        "F-Script",
+        "Go",
+        "Io",
+        "Lasso",
+        "Logtalk",
+        "MOO",
+        "Newspeak",
+        "Object Pascal",
+        "Object REXX",
+        "Objective-C",
+        "Orc",
+        "Perl 6",
+        "Pharo",
+        "Scala",
+        "Self",
+        "Snap!",
+        "Squeak",
+        "Strongtalk",
+        "Wolfram Language",
+        "Xtend"
+      ]
+    }
+  ],
+  [
+    "Scheme",
+    {
+      "count": 26,
+      "langs": [
+        "Arc",
+        "Clojure",
+        "Common Lisp",
+        "Dylan",
+        "ECMAScript",
+        "Game Oriented Assembly Lisp",
+        "Haskell",
+        "Hop",
+        "JavaScript",
+        "Joy",
+        "Julia",
+        "K",
+        "Lua",
+        "MOO",
+        "NewLISP",
+        "Pico",
+        "Q",
+        "Qalb",
+        "R",
+        "Racket",
+        "Rust",
+        "Sather",
+        "Scala",
+        "Snap!",
+        "T",
+        "Tea"
+      ]
+    }
+  ],
+  [
+    "C++",
+    {
+      "count": 25,
+      "langs": [
+        "COBOL",
+        "C Sharp",
+        "Chapel",
+        "Clojure",
+        "D",
+        "EC",
+        "GNU E",
+        "Java",
+        "LPC",
+        "Lua",
+        "Nim",
+        "PHP",
+        "Perl",
+        "Pike",
+        "Rust",
+        "Seed7",
+        "Solidity",
+        "Squirrel",
+        "SystemVerilog",
+        "Umple",
+        "VSXu",
+        "Vala",
+        "Wolfram Language",
+        "X10",
+        "XL"
+      ]
+    }
+  ],
+  [
+    "Pascal",
+    {
+      "count": 21,
+      "langs": [
+        "Cool",
+        "Draco",
+        "Emerald",
+        "Euclid",
+        "Go",
+        "HyperTalk",
+        "KUKA Robot Language",
+        "Karel",
+        "Limbo",
+        "Modula",
+        "Modula-2",
+        "Modula-3",
+        "OCaml",
+        "Object Pascal",
+        "ParaSail",
+        "Pascal Script",
+        "SISAL",
+        "Seed7",
+        "Standard ML",
+        "Turing",
+        "Wolfram Language"
+      ]
+    }
+  ],
+  [
+    "Python",
+    {
+      "count": 20,
+      "langs": [
+        "Boo",
+        "Cobra",
+        "CoffeeScript",
+        "Crystal",
+        "D",
+        "ECMAScript",
+        "EC",
+        "Ezhil",
+        "F Sharp",
+        "Genie",
+        "Io",
+        "JavaScript",
+        "Julia",
+        "Kotlin",
+        "Nim",
+        "PowerShell",
+        "Solidity",
+        "Squirrel",
+        "Swift",
+        "Whiley"
+      ]
+    }
+  ],
+  [
+    "C Sharp",
+    {
+      "count": 20,
+      "langs": [
+        "Boo",
+        "Chapel",
+        "Clojure",
+        "Cobra",
+        "Crystal",
+        "D",
+        "Dart",
+        "F Sharp",
+        "Fantom",
+        "Gosu",
+        "Hack",
+        "Java",
+        "Kotlin",
+        "Nemerle",
+        "Oxygene",
+        "PowerShell",
+        "Q Sharp",
+        "Rust",
+        "Swift",
+        "Vala"
+      ]
+    }
+  ],
+  [
+    "Haskell",
+    {
+      "count": 18,
+      "langs": [
+        "C Sharp",
+        "Clean",
+        "Clojure",
+        "CoffeeScript",
+        "Curry",
+        "Elm",
+        "F Sharp",
+        "Fortress",
+        "Hack",
+        "Idris",
+        "LiveScript",
+        "Mercury",
+        "Orc",
+        "Perl 6",
+        "Pure",
+        "Rust",
+        "Scala",
+        "Swift"
+      ]
+    }
+  ],
+  [
+    "ML",
+    {
+      "count": 17,
+      "langs": [
+        "C++",
+        "C Sharp",
+        "Caml",
+        "Ceylon",
+        "Claire",
+        "Clojure",
+        "Cool",
+        "F Sharp",
+        "Haskell",
+        "Idris",
+        "Kotlin",
+        "Miranda",
+        "Nemerle",
+        "Nickle",
+        "Orc",
+        "ParaSail",
+        "Pict"
+      ]
+    }
+  ],
+  [
+    "APL",
+    {
+      "count": 12,
+      "langs": [
+        "F-Script",
+        "FP",
+        "Forth",
+        "Go",
+        "J",
+        "K",
+        "LYaPAS",
+        "MATLAB",
+        "Perl Data Language",
+        "Q",
+        "Speakeasy",
+        "Wolfram Language"
+      ]
+    }
+  ],
+  [
+    "JavaScript",
+    {
+      "count": 12,
+      "langs": [
+        "BeanShell",
+        "CoffeeScript",
+        "Curl",
+        "Dart",
+        "LiveScript",
+        "Objective-J",
+        "Opa",
+        "PHP",
+        "Perl 6",
+        "Script.NET",
+        "Solidity",
+        "Squirrel"
+      ]
+    }
+  ],
+  [
+    "Self",
+    {
+      "count": 11,
+      "langs": [
+        "Citrine",
+        "ECMAScript",
+        "Factor",
+        "Io",
+        "JavaScript",
+        "MOO",
+        "Newspeak",
+        "NewtonScript",
+        "Obliq",
+        "Squeak",
+        "Strongtalk"
+      ]
+    }
+  ],
+  [
+    "Perl",
+    {
+      "count": 11,
+      "langs": [
+        "BeanShell",
+        "CoffeeScript",
+        "ECMAScript",
+        "JavaScript",
+        "Julia",
+        "LPC",
+        "NewLISP",
+        "PHP",
+        "Perl 6",
+        "Perl Data Language",
+        "PowerShell"
+      ]
+    }
+  ],
+  [
+    "Ruby",
+    {
+      "count": 10,
+      "langs": [
+        "Clojure",
+        "CoffeeScript",
+        "Crystal",
+        "Elixir",
+        "Fantom",
+        "Julia",
+        "Mirah",
+        "Perl 6",
+        "Swift",
+        "Umple"
+      ]
+    }
+  ],
+  [
+    "Ada",
+    {
+      "count": 9,
+      "langs": [
+        "Chapel",
+        "Eiffel",
+        "Java",
+        "MOO",
+        "Nim",
+        "ParaSail",
+        "SPARK",
+        "Seed7",
+        "XL"
+      ]
+    }
+  ],
+  [
+    "Fortran",
+    {
+      "count": 8,
+      "langs": [
+        "CMS-2",
+        "Chapel",
+        "DIBOL",
+        "Fortress",
+        "PL/I",
+        "Ratfor",
+        "SISAL",
+        "Verilog"
+      ]
+    }
+  ],
+  [
+    "Simula",
+    {
+      "count": 8,
+      "langs": [
+        "C++",
+        "CLU",
+        "Eiffel",
+        "Emerald",
+        "Object Pascal",
+        "Smalltalk",
+        "Squeak",
+        "Wolfram Language"
+      ]
+    }
+  ],
+  [
+    "Eiffel",
+    {
+      "count": 8,
+      "langs": [
+        "C Sharp",
+        "Cobra",
+        "D",
+        "Java",
+        "Racket",
+        "SPARK",
+        "Sather",
+        "Scala"
+      ]
+    }
+  ],
+  [
+    "Scala",
+    {
+      "count": 8,
+      "langs": [
+        "F Sharp",
+        "Fantom",
+        "Fortress",
+        "Hack",
+        "Kotlin",
+        "Lasso",
+        "Red",
+        "Xtend"
+      ]
+    }
+  ],
+  [
+    "Prolog",
+    {
+      "count": 8,
+      "langs": [
+        "Constraint Handling Rules",
+        "Erlang",
+        "Go!",
+        "Logtalk",
+        "Mercury",
+        "Oz",
+        "Wolfram Language",
+        "XSB"
+      ]
+    }
+  ],
+  [
+    "Erlang",
+    {
+      "count": 8,
+      "langs": [
+        "Dart",
+        "Elixir",
+        "F Sharp",
+        "Fantom",
+        "Opa",
+        "Oz",
+        "Rust",
+        "Scala"
+      ]
+    }
+  ],
+  [
+    "ALGOL",
+    {
+      "count": 8,
+      "langs": [
+        "Dylan",
+        "Icon",
+        "JOVIAL",
+        "Mesa",
+        "Modula-3",
+        "PL/I",
+        "PL/M",
+        "Scheme"
+      ]
+    }
+  ],
+  [
+    "OCaml",
+    {
+      "count": 8,
+      "langs": [
+        "F*",
+        "F Sharp",
+        "Hack",
+        "Haxe",
+        "Opa",
+        "Reason",
+        "Rust",
+        "Scala"
+      ]
+    }
+  ],
+  [
+    "ALGOL 68",
+    {
+      "count": 7,
+      "langs": [
+        "C++",
+        "C",
+        "Draco",
+        "ELAN",
+        "Mary",
+        "S3",
+        "Seed7"
+      ]
+    }
+  ],
+  [
+    "ALGOL 60",
+    {
+      "count": 7,
+      "langs": [
+        "ALGOL W",
+        "BASIC",
+        "CLU",
+        "CPL",
+        "Euler",
+        "SETL",
+        "Simula"
+      ]
+    }
+  ],
+  [
+    "Objective-C",
+    {
+      "count": 6,
+      "langs": [
+        "Cobra",
+        "Java",
+        "Logtalk",
+        "Objective-J",
+        "Swift",
+        "TOM"
+      ]
+    }
+  ],
+  [
+    "PL/I",
+    {
+      "count": 6,
+      "langs": [
+        "CMS-2",
+        "C",
+        "NetRexx",
+        "PL/C",
+        "PL/M",
+        "SP/k"
+      ]
+    }
+  ],
+  [
+    "Common Lisp",
+    {
+      "count": 6,
+      "langs": [
+        "Emacs Lisp",
+        "Franz Lisp",
+        "NewLISP",
+        "R",
+        "Sather",
+        "Scala"
+      ]
+    }
+  ],
+  [
+    "Rust",
+    {
+      "count": 5,
+      "langs": [
+        "C Sharp",
+        "Crystal",
+        "Idris",
+        "Swift",
+        "Whiley"
+      ]
+    }
+  ],
+  [
+    "Object Pascal",
+    {
+      "count": 5,
+      "langs": [
+        "Genie",
+        "Java",
+        "Nim",
+        "Oxygene",
+        "Pascal Script"
+      ]
+    }
+  ],
+  [
+    "Standard ML",
+    {
+      "count": 5,
+      "langs": [
+        "F*",
+        "Haskell",
+        "OCaml",
+        "Rust",
+        "Scala"
+      ]
+    }
+  ],
+  [
+    "Logo",
+    {
+      "count": 5,
+      "langs": [
+        "Ezhil",
+        "NetLogo",
+        "Smalltalk",
+        "Snap!",
+        "Squeak"
+      ]
+    }
+  ],
+  [
+    "AWK",
+    {
+      "count": 4,
+      "langs": [
+        "ECMAScript",
+        "JavaScript",
+        "Perl",
+        "Tcl"
+      ]
+    }
+  ],
+  [
+    "F Sharp",
+    {
+      "count": 4,
+      "langs": [
+        "Elm",
+        "F*",
+        "LiveScript",
+        "Q Sharp"
+      ]
+    }
+  ],
+  [
+    "Modula-3",
+    {
+      "count": 4,
+      "langs": [
+        "Java",
+        "Nickle",
+        "Nim",
+        "Obliq"
+      ]
+    }
+  ],
+  [
+    "BASIC",
+    {
+      "count": 4,
+      "langs": [
+        "Ezhil",
+        "Perl",
+        "Visual Basic",
+        "Zebra"
+      ]
+    }
+  ],
+  [
+    "Oberon",
+    {
+      "count": 4,
+      "langs": [
+        "Java",
+        "Modula-3",
+        "Nim",
+        "Obliq"
+      ]
+    }
+  ],
+  [
+    "Lua",
+    {
+      "count": 4,
+      "langs": [
+        "JavaScript",
+        "Julia",
+        "Red",
+        "Squirrel"
+      ]
+    }
+  ],
+  [
+    "Newsqueak",
+    {
+      "count": 3,
+      "langs": [
+        "Go",
+        "Limbo",
+        "Rust"
+      ]
+    }
+  ],
+  [
+    "HyperTalk",
+    {
+      "count": 3,
+      "langs": [
+        "ECMAScript",
+        "JavaScript",
+        "LiveCode"
+      ]
+    }
+  ],
+  [
+    "BCPL",
+    {
+      "count": 3,
+      "langs": [
+        "Babbage",
+        "C",
+        "Go"
+      ]
+    }
+  ],
+  [
+    "CLU",
+    {
+      "count": 3,
+      "langs": [
+        "Lua",
+        "Sather",
+        "Swift"
+      ]
+    }
+  ],
+  [
+    "COBOL",
+    {
+      "count": 3,
+      "langs": [
+        "DIBOL",
+        "PL/I",
+        "Programming Language for Business"
+      ]
+    }
+  ],
+  [
+    "FP",
+    {
+      "count": 3,
+      "langs": [
+        "Haskell",
+        "J",
+        "Joy"
+      ]
+    }
+  ],
+  [
+    "ISWIM",
+    {
+      "count": 3,
+      "langs": [
+        "Lucid",
+        "ML",
+        "SASL"
+      ]
+    }
+  ],
+  [
+    "Hope",
+    {
+      "count": 3,
+      "langs": [
+        "Mercury",
+        "Miranda",
+        "Standard ML"
+      ]
+    }
+  ],
+  [
+    "Modula-2",
+    {
+      "count": 3,
+      "langs": [
+        "Modula-3",
+        "Oberon",
+        "Seed7"
+      ]
+    }
+  ],
+  [
+    "Tcl",
+    {
+      "count": 3,
+      "langs": [
+        "PowerShell",
+        "Tea",
+        "XOTcl"
+      ]
+    }
+  ],
+  [
+    "FORTRAN",
+    {
+      "count": 2,
+      "langs": [
+        "C",
+        "Wolfram Language"
+      ]
+    }
+  ],
+  [
+    "ALGOL 58",
+    {
+      "count": 2,
+      "langs": [
+        "JOSS",
+        "MAD"
+      ]
+    }
+  ],
+  [
+    "SNOBOL",
+    {
+      "count": 2,
+      "langs": [
+        "Icon",
+        "Lua"
+      ]
+    }
+  ],
+  [
+    "Oz",
+    {
+      "count": 2,
+      "langs": [
+        "Orc",
+        "Scala"
+      ]
+    }
+  ],
+  [
+    "JOSS",
+    {
+      "count": 2,
+      "langs": [
+        "MUMPS",
+        "TELCOMP"
+      ]
+    }
+  ],
+  [
+    "FLOW-MATIC",
+    {
+      "count": 2,
+      "langs": [
+        "COMTRAN",
+        "MATH-MATIC"
+      ]
+    }
+  ],
+  [
+    "Miranda",
+    {
+      "count": 2,
+      "langs": [
+        "Haskell",
+        "Orwell"
+      ]
+    }
+  ],
+  [
+    "Maclisp",
+    {
+      "count": 2,
+      "langs": [
+        "Emacs Lisp",
+        "Franz Lisp"
+      ]
+    }
+  ],
+  [
+    "Forth",
+    {
+      "count": 2,
+      "langs": [
+        "Joy",
+        "RPL"
+      ]
+    }
+  ],
+  [
+    "D",
+    {
+      "count": 2,
+      "langs": [
+        "Swift",
+        "Vala"
+      ]
+    }
+  ],
+  [
+    "Boo",
+    {
+      "count": 2,
+      "langs": [
+        "Mirah",
+        "Vala"
+      ]
+    }
+  ],
+  [
+    "Communicating sequential processes",
+    {
+      "count": 2,
+      "langs": [
+        "Limbo",
+        "Occam"
+      ]
+    }
+  ],
+  [
+    "Modula",
+    {
+      "count": 2,
+      "langs": [
+        "Modula-2",
+        "ParaSail"
+      ]
+    }
+  ],
+  [
+    "Alef",
+    {
+      "count": 2,
+      "langs": [
+        "Limbo",
+        "Rust"
+      ]
+    }
+  ],
+  [
+    "Mesa",
+    {
+      "count": 2,
+      "langs": [
+        "Modula-2",
+        "Modula-3"
+      ]
+    }
+  ],
+  [
+    "Euclid",
+    {
+      "count": 2,
+      "langs": [
+        "Modula-3",
+        "Turing"
+      ]
+    }
+  ],
+  [
+    "SETL",
+    {
+      "count": 1,
+      "langs": [
+        "Claire"
+      ]
+    }
+  ],
+  [
+    "Bourne shell",
+    {
+      "count": 1,
+      "langs": [
+        "Rc"
+      ]
+    }
+  ],
+  [
+    "Natural language programming",
+    {
+      "count": 1,
+      "langs": [
+        "HyperTalk"
+      ]
+    }
+  ],
+  [
+    "CPL",
+    {
+      "count": 1,
+      "langs": [
+        "C"
+      ]
+    }
+  ],
+  [
+    "Go",
+    {
+      "count": 1,
+      "langs": [
+        "Crystal"
+      ]
+    }
+  ],
+  [
+    "JOVIAL",
+    {
+      "count": 1,
+      "langs": [
+        "Coral 66"
+      ]
+    }
+  ],
+  [
+    "Assembly language",
+    {
+      "count": 1,
+      "langs": [
+        "Speedcoding"
+      ]
+    }
+  ],
+  [
+    "Visual J++",
+    {
+      "count": 1,
+      "langs": [
+        "J Sharp"
+      ]
+    }
+  ],
+  [
+    "Visual Basic",
+    {
+      "count": 1,
+      "langs": [
+        "Visual Basic .NET"
+      ]
+    }
+  ],
+  [
+    "Mathematica",
+    {
+      "count": 1,
+      "langs": [
+        "Julia"
+      ]
+    }
+  ],
+  [
+    "Swift",
+    {
+      "count": 1,
+      "langs": [
+        "Rust"
+      ]
+    }
+  ],
+  [
+    "CoffeeScript",
+    {
+      "count": 1,
+      "langs": [
+        "LiveScript"
+      ]
+    }
+  ],
+  [
+    "occam",
+    {
+      "count": 1,
+      "langs": [
+        "Occam-\u03c0"
+      ]
+    }
+  ],
+  [
+    "StarLogo",
+    {
+      "count": 1,
+      "langs": [
+        "NetLogo"
+      ]
+    }
+  ],
+  [
+    "Limbo",
+    {
+      "count": 1,
+      "langs": [
+        "Rust"
+      ]
+    }
+  ],
+  [
+    "PHP",
+    {
+      "count": 1,
+      "langs": [
+        "Umple"
+      ]
+    }
+  ],
+  [
+    "Kent Recursive Calculator",
+    {
+      "count": 1,
+      "langs": [
+        "Miranda"
+      ]
+    }
+  ],
+  [
+    "SASL",
+    {
+      "count": 1,
+      "langs": [
+        "Kent Recursive Calculator"
+      ]
+    }
+  ],
+  [
+    "Clean",
+    {
+      "count": 1,
+      "langs": [
+        "Idris"
+      ]
+    }
+  ],
+  [
+    "MATLAB",
+    {
+      "count": 1,
+      "langs": [
+        "Pure"
+      ]
+    }
+  ],
+  [
+    "A+",
+    {
+      "count": 1,
+      "langs": [
+        "Q"
+      ]
+    }
+  ],
+  [
+    "Groovy",
+    {
+      "count": 1,
+      "langs": [
+        "Xtend"
+      ]
+    }
+  ],
+  [
+    "Lisp programming language",
+    {
+      "count": 1,
+      "langs": [
+        "Nial"
+      ]
+    }
+  ],
+  [
+    "SQL",
+    {
+      "count": 1,
+      "langs": [
+        "XQuery"
+      ]
+    }
+  ],
+  [
+    "functional programming",
+    {
+      "count": 1,
+      "langs": [
+        "Swift"
+      ]
+    }
+  ],
+  [
+    "Planner",
+    {
+      "count": 1,
+      "langs": [
+        "Smalltalk"
+      ]
+    }
+  ],
+  [
+    "Sketchpad",
+    {
+      "count": 1,
+      "langs": [
+        "Squeak"
+      ]
+    }
+  ],
+  [
+    "XSLT",
+    {
+      "count": 1,
+      "langs": [
+        "XQuery"
+      ]
+    }
+  ],
+  [
+    "Guido van Rossum",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "O'Reilly Media",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Plankalk\u00fcl",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ALGOL Y",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "STOS BASIC",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "A\u266f",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "E",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Actor-Based Concurrent Language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Javascript",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "*Lisp",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ANSI C",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "PL/1",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "CS-1",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "FACT computer language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "COMTRAN",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "AIMACO",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Combined Programming Language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "B",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Icon",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "J Sharp",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "C\u03c9",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "MUMPS",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Cray XMT",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Cray MTA",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "High Performance Fortran",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ZPL",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Sed",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Awk",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "OPS5",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Lean",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Racket",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "YAML",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Interlisp",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Lisp Machine Lisp",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Oberon-2",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Sather",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Inform",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "HTML",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Strongtalk",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Maple",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "EuLisp",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Common Lisp Object System",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Joule",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Z notation",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Clojure",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ALF",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "PLEX",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "simple theory of types",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "AgentSheets",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "HyperCard",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Dafny",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ARITH-MATIC",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Fortran 95",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Joy",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Burroughs large systems",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Speedcoding",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Occam",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "SISAL",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Id",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Orwell",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Gofer",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ActionScript",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "IBM 709/90 9PAC",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "FARGO",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Epigram",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Agda",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Coq",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Actor model middle history",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "NewtonScript",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Semi-Automatic Ground Environment",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ECMAScript",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "JScript",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "FL",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "UCSD Pascal",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Actor model",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Logic Programming",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Wolfram Language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "R",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Gosu",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Dylan",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Information Processing Language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "EISPACK",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Speakeasy",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "PL/0",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "LINPACK",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Algol programming language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "MUF",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "SASL programming language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Algol-W",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Modula-2+",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Object REXX",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "REXX",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Nineteen Eighty-Four",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "BETA",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Dylan programming language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "APL programming language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Caml",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Rexx",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "C++14",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "CUDA",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "C99",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Pict",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Hack",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "XPL",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ALGOL W",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "sed",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Unix shell",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "IDL",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Squeak",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "LPC",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Begriffsschrift",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Interpress",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "IBM i Control Language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Puppet",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Korn shell",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "DIGITAL Command Language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Tk",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Chef",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "dataflow",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "diagram",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Business Basic",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Alice",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Patcher",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "K",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ARLA",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Reverse Polish Notation",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Algol 68",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "XLispStat",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "S",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Rebol",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Cyclone",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "COMIT",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Pizza",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "MDL",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ed",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Simscript",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Burroughs B5000",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "IMP",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Euler",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ARPAnet",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "cell",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Scratch",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "PowerShell",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "machine code",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "ML programming language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "OpenVera",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Verilog",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "VHDL",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "TRAC programming language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "SP/k",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Unified Modeling Language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Icon programming language",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Pure Data",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "OpenGL",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "asm.js",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Google Native Client",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "Symbolic Manipulation Program",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "OTcl",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "XPointer",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "XPath",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "PSB-Prolog",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "SB-Prolog",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ],
+  [
+    "PostScript",
+    {
+      "count": 0,
+      "langs": []
+    }
+  ]
+]
